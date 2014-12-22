@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>SamPages</title>
- <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
- <link href="http://hyde.getpoole.com/"/>
- <updated>2014-12-22T09:40:28-06:00</updated>
- <id>http://hyde.getpoole.com</id>
+ <link href="http://samarthasthana.github.io/atom.xml" rel="self"/>
+ <link href="http://samarthasthana.github.io/"/>
+ <updated>2014-12-22T10:47:47-06:00</updated>
+ <id>http://samarthasthana.github.io</id>
  <author>
    <name>Samarth</name>
    <email></email>
@@ -13,54 +13,32 @@
 
  
  <entry>
-   <title>Introducing Hyde</title>
-   <link href="http://hyde.getpoole.com/2013/12/28/introducing-hyde/"/>
-   <updated>2013-12-28T00:00:00-06:00</updated>
-   <id>http://hyde.getpoole.com/2013/12/28/introducing-hyde</id>
-   <content type="html">&lt;p&gt;Hyde is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It&amp;#39;s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
+   <title>First post ever</title>
+   <link href="http://samarthasthana.github.io/2014/12/22/first-post-ever/"/>
+   <updated>2014-12-22T00:00:00-06:00</updated>
+   <id>http://samarthasthana.github.io/2014/12/22/first-post-ever</id>
+   <content type="html">&lt;p&gt;This is an interesting transition that me and my blog have decided to go through. Before this we had tried
+wordpress, which gave so many options that I was always confused about what I really wanted. Rails was always an option
+but it would require hardwork setting things up. Obviously the &amp;#39;hardwork&amp;#39; we are talking about is negligible when
+compared to any other tech stack, but I am a true &amp;#39;Slob&amp;#39; when it comes to doing work that requires me cutting down
+my free time.&lt;/p&gt;
 
-&lt;h3&gt;Built on Poole&lt;/h3&gt;
+&lt;p&gt;So &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; is for people like me. It a framework thats one step ahead of Rails. It not just up, it up and running and
+down three laps from the word go!&lt;/p&gt;
 
-&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Hyde here) includes the following:&lt;/p&gt;
+&lt;p&gt;Now I hope that I would be able to keep picking my mind and blogging about my life now that I can use &lt;a href=&quot;http://www.sublimetext.com/3&quot;&gt;sublime text&lt;/a&gt; and
+&lt;a href=&quot;https://help.github.com/articles/github-flavored-markdown/&quot;&gt;github markdown&lt;/a&gt; and not bother about hosting as &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github&lt;/a&gt; is the kidest deployment manager ever. Wish me luck!!&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-&lt;li&gt;Easily scalable text and component sizing with &lt;code&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-&lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-&lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-&lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Hyde features&lt;/h3&gt;
-
-&lt;p&gt;In addition to the features of Poole, Hyde adds the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
-&lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/poole/hyde#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/poole/hyde#readme&quot;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
-
-&lt;h3&gt;Browser support&lt;/h3&gt;
-
-&lt;p&gt;Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
-
-&lt;h3&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;Hyde is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
-
-&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Love&lt;/br&gt;
+Sam&lt;em&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Example content</title>
-   <link href="http://hyde.getpoole.com/2012/02/07/example-content/"/>
+   <link href="http://samarthasthana.github.io/2012/02/07/example-content/"/>
    <updated>2012-02-07T00:00:00-06:00</updated>
-   <id>http://hyde.getpoole.com/2012/02/07/example-content</id>
+   <id>http://samarthasthana.github.io/2012/02/07/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -204,9 +182,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://hyde.getpoole.com/2012/02/06/whats-jekyll/"/>
+   <link href="http://samarthasthana.github.io/2012/02/06/whats-jekyll/"/>
    <updated>2012-02-06T00:00:00-06:00</updated>
-   <id>http://hyde.getpoole.com/2012/02/06/whats-jekyll</id>
+   <id>http://samarthasthana.github.io/2012/02/06/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;

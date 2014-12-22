@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            SamPages
 tagline:          'A personal Blog'
-description:      'This is a test intro to be displayed on th front page'
+description:      'This blog belongs to Samarth Asthana, a youngish developer working his way to quench curiosity and achieve greatness while being rooted to his values and caring for others. Emo much :P?'
 url:              http://samarthasthana.github.io
 baseurl:          /
 
